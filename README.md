@@ -73,7 +73,7 @@
 
 </p>
 
-### 👨‍💻 Some of my Projects 
+## 👨‍💻 Some of my Projects 
 
 <br>
  
@@ -86,7 +86,7 @@
 
 ### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
-<div style="display:flex; justify-content:space-around;align-items:center; width:150px">
+<div style="display:flex; justify-content:space-around;align-items:center; width:200px">
 
  <a href="https://linkedin.com/in/hardeepnain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hardeep Nain's LinkedIn" height="30" width="40" /></a>
 
