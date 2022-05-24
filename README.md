@@ -63,7 +63,7 @@
 
 <br>
 
-[![HardeepNain's github activity graph](https://activity-graph.herokuapp.com/graph?username=HardeepNain&theme=react-dark)](https://github.com/HardeepNain/github-readme-activity-graph)
+
  
 <br>
 
