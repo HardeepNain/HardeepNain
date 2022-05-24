@@ -1,6 +1,6 @@
-[![MasterHead](./Img/1607639630421.jpg)](YourSite)
+<!-- [![MasterHead](./Img/1607639630421.jpg)](YourSite) -->
 
-<!-- <img src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="150px" width="450px"> -->
+<img src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="150px" width="450px">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
 
@@ -50,12 +50,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="(https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeepnain&theme=chartreuse-dark&layout=compact&border_color=9ACD32" />
+<div align="center" style="display:flex; justify-content:space-around;align-items:center">
+<a href="(https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeepnain&theme=chartreuse-dark&layout=compact&border_color=9ACD32" />
+</a><a href="https://github.com/hardeepnain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeepnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32" />
 </a>
-<a href="https://github.com/hardeepnain/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeepnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32" />
-</a>
+</div>
 
 <br>
 
@@ -63,7 +62,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardeepNain&count_private=true&include_all_commits=true&&theme=chartreuse-dark"/>
 </div>
 
-<br>
 
 
  
@@ -90,7 +88,7 @@
 
 <div style="display:flex; justify-content:space-around;align-items:center; width:150px">
 
- <a href="https://linkedin.com/in/hardeepnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hardeep Nain's LinkedIn" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/hardeepnain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hardeep Nain's LinkedIn" height="30" width="40" /></a>
 
 <a href="mailto:hnspnain@gmail.com" target="_blank">
 <img src="./Icons/icons8-gmail-48.png" alt="Hardeep Nain's gmail" height='35' style="margin-right: 15px;" />
