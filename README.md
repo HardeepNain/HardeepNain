@@ -20,7 +20,9 @@
 * Loves to Code 👨‍💻
 * **Hobbies** : 🏏 and ♟
 * Have a look at my [**Resume**](https://drive.google.com/file/d/1h-SZa_Yg6r5f_Lbq1sesXFACk7PU6Jka/view?usp=sharing)
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or mail me <img src="./Icons/icons8-gmail-48.png" width="15px">!
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or mail me <a href="mailto:hnspnain@gmail.com" target="_blank">
+<img src="./Icons/icons8-gmail-48.png" width='17px' />
+</a>!
 
 
 ## 🔧 Technologies & Tools
@@ -93,12 +95,8 @@
  <a href="https://linkedin.com/in/hardeepnain" target="_blank">
 <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Hardeep Nain's LinkedIn" />
 </a>
-<a href="mailto:hnspnain@gmail.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height='30' style="margin-left:30px" />
-</a>
-<a href="mailto:hnspnain@gmail.com" target="_blank">
-<img src="./Icons/icons8-gmail-48.png" height='30' style="margin-left:30px" />
-</a>
+
+
 
 </div>
 
