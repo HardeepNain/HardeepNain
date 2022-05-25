@@ -1,14 +1,18 @@
 <!-- [![MasterHead](./Img/1607639630421.jpg)](YourSite) -->
+
+<div align="center">
+
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain
+
+</div>
+
 <div align="center">
 <img  src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="200px" width="450px">
 </div>
-<div align="center">
-
-<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
 
 <h5 align="center">A passionate WEB DEVELOPER from India</h5>
+
 <hr>
-</div>
 
 ## 🙋‍♂️ Welcome to my profile
 * CSE Student at GGSIPU, Delhi 🎓
@@ -16,7 +20,7 @@
 * Loves to Code 👨‍💻
 * **Hobbies** : 🏏 and ♟
 * Have a look at my [**Resume**](https://drive.google.com/file/d/1h-SZa_Yg6r5f_Lbq1sesXFACk7PU6Jka/view?usp=sharing)
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) !
+* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or mail me <img src="./Icons/icons8-gmail-48.png" width="15px">!
 
 
 ## 🔧 Technologies & Tools
