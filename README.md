@@ -4,9 +4,8 @@
 </div>
 <div align="center">
 
-<h3>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h3>
-
-<h6 align="center">A passionate WEB DEVELOPER from India</h6>
+<h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
+<h5 align="center">A passionate WEB DEVELOPER from India</h5>
 </div>
 
 ## 🙋‍♂️ Welcome to my profile
@@ -86,10 +85,13 @@
 
 <div style="display:flex; justify-content:center;align-items:center; ">
  <a href="https://linkedin.com/in/hardeepnain" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="Hardeep Nain's LinkedIn" />
+<img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Hardeep Nain's LinkedIn" />
 </a>
+<!-- <a href="mailto:hnspnain@gmail.com" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height='30' style="margin-left:30px" />
+</a> -->
 <a href="mailto:hnspnain@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hardeep Nain's gmail" style="margin-left:30px" />
+<img src="./Icons/icons8-gmail-48.png" height='30' style="margin-left:30px" />
 </a>
 
 </div>
@@ -109,3 +111,5 @@
 
 </div>
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/EA4335.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Gmail.svg" />
