@@ -19,7 +19,6 @@
 * MERN Developer 🌐
 * Loves to Code 👨‍💻
 * **Hobbies** : 🏏 and ♟
-* Have a look at my [**Resume**](https://drive.google.com/file/d/1h-SZa_Yg6r5f_Lbq1sesXFACk7PU6Jka/view?usp=sharing)
 * Wanna connect ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or Mail me <a href="mailto:hnspnain@gmail.com" target="_blank"><img src="./Icons/icons8-gmail-48.png" width='18px'/></a>!
 
 
