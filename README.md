@@ -20,7 +20,7 @@
 * Loves to Code 👨‍💻
 * **Hobbies** : 🏏 and ♟
 * Have a look at my [**Resume**](https://drive.google.com/file/d/1h-SZa_Yg6r5f_Lbq1sesXFACk7PU6Jka/view?usp=sharing)
-* Wanna connect ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or Mail me <a href="mailto:hnspnain@gmail.com" target="_blank"><img src="./Icons/icons8-gmail-48.png" width='17px'/></a>!
+* Wanna connect ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or Mail me <a href="mailto:hnspnain@gmail.com" target="_blank"><img src="./Icons/icons8-gmail-48.png" width='18px'/></a>!
 
 
 ## 🔧 Technologies & Tools
@@ -52,7 +52,7 @@
 <a href="https://leetcode.com/HardeepNain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/5ce3bb81-78c6-45a8-a18d-3ac7bb827759" target="blank"><img align="center" src="./Icons/download.png" alt="hardeep nain's codestudio profile" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hardeepnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
-<a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="30" width="80" /></a>
+<a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="20" width="80" /></a>
 
 <br>
 
