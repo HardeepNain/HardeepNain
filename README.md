@@ -5,7 +5,9 @@
 <div align="center">
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
+
 <h5 align="center">A passionate WEB DEVELOPER from India</h5>
+<hr>
 </div>
 
 ## 🙋‍♂️ Welcome to my profile
@@ -83,7 +85,7 @@
 
 ### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
-<div style="display:flex; justify-content:center;align-items:center; ">
+<div style="display:flex; justify-content:space-around;align-items:center; ">
  <a href="https://linkedin.com/in/hardeepnain" target="_blank">
 <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Hardeep Nain's LinkedIn" />
 </a>
@@ -110,6 +112,3 @@
 ⭐ this [repository](https://github.com/HardeepNain/HardeepNain) if you like😊
 
 </div>
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/EA4335.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/Gmail.svg" />
