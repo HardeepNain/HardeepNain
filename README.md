@@ -85,23 +85,24 @@
 
 ### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
-<div style="display:flex; justify-content:center;align-items:center; ">
+<div style="display:flex; justify-content:center; ">
  <a href="https://linkedin.com/in/hardeepnain" target="_blank">
 <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Hardeep Nain's LinkedIn" />
 </a>
 <a href="mailto:hnspnain@gmail.com" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height='30' style="margin-left:30px" />
 </a>
-<!-- <a href="mailto:hnspnain@gmail.com" target="_blank">
+<a href="mailto:hnspnain@gmail.com" target="_blank">
 <img src="./Icons/icons8-gmail-48.png" height='30' style="margin-left:30px" />
-</a> -->
+</a>
 
 </div>
 
 <br>
 
 <p align="center"> 
-  Visitor count<br>
+
+  ### Visitor count<br>
   <img src="https://profile-counter.glitch.me/hardeepnain/count.svg" />
 
 </p>
