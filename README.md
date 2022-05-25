@@ -2,9 +2,12 @@
 <div align="center">
 <img  src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="200px" width="450px">
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
+<div align="center">
 
-<h3 align="center">A passionate WEB DEVELOPER from India</h3>
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain
+
+<h6 align="center">A passionate WEB DEVELOPER from India</h6>
+</div>
 
 ## 🙋‍♂️ Welcome to my profile
 * CSE Student at GGSIPU, Delhi 🎓
@@ -86,12 +89,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="Hardeep Nain's LinkedIn" />
 </a>
 <a href="mailto:hnspnain@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hardeep Nain's gmail" style="margin-left: 30px;" />
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hardeep Nain's gmail" style="margin-left:30px" />
 </a>
 
 </div>
 
-##
+<br>
 
 <p align="center"> 
   Visitor count<br>
@@ -99,7 +102,6 @@
 
 </p>
 
-##
 
 <div align="center">
 
