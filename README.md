@@ -78,7 +78,8 @@
 <br>
  
 <div  align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=blue-green&title_color=ffffff" >
+<a href="https://github.com/HardeepNain/Digital-Board" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=blue-green&title_color=ffffff" >
 </div>
 
