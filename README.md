@@ -10,9 +10,9 @@
 <img  src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="200px" width="450px">
 </div>
 
-<h5 align="center">A passionate WEB DEVELOPER from India</h5>
+<h3 align="center">A passionate WEB DEVELOPER from India</h3>
 
-<hr>
+<br>
 
 ## 🙋‍♂️ Welcome to my profile
 * CSE Student at GGSIPU, Delhi 🎓
@@ -20,7 +20,7 @@
 * Loves to Code 👨‍💻
 * **Hobbies** : 🏏 and ♟
 * Have a look at my [**Resume**](https://drive.google.com/file/d/1h-SZa_Yg6r5f_Lbq1sesXFACk7PU6Jka/view?usp=sharing)
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or mail me <a href="mailto:hnspnain@gmail.com" target="_blank">
+* Wanna connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/hardeepnain/) or mail me <a href="mailto:hnspnain@gmail.com" target="_blank">
 <img src="./Icons/icons8-gmail-48.png" width='17px' />
 </a>!
 
@@ -87,7 +87,7 @@
 
 <div align="center">
 
-##
+<hr>
 
 ### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
