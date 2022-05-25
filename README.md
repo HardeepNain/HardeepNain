@@ -52,7 +52,7 @@
 
 <div align="center" style="display:flex; justify-content:space-around;align-items:center">
 <a href="(https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeepnain&theme=chartreuse-dark&layout=compact&border_color=9ACD32" />
-</a><a href="https://github.com/hardeepnain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeepnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32" />
+</a><a href="https://github.com/hardeepnain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeepnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32" style="width:460px" />
 </a>
 </div>
 
