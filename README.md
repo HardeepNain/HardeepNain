@@ -1,7 +1,7 @@
 <!-- [![MasterHead](./Img/1607639630421.jpg)](YourSite) -->
-
-<img src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="150px" width="450px">
-
+<div align="center">
+<img  src="./Img/91edbdbc9875196cc50f56337f4e1aea00534b12.webp" height="200px" width="450px">
+</div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h1>
 
 <h3 align="center">A passionate WEB DEVELOPER from India</h3>
@@ -61,17 +61,10 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HardeepNain&count_private=true&include_all_commits=true&&theme=chartreuse-dark"/>
 </div>
-
-
-
  
 <br>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hardeepnain/count.svg" />
 
-</p>
 
 ## 👨‍💻 Some of my Projects 
 
@@ -84,23 +77,33 @@
 
 <div align="center">
 
+##
+
 ### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
-<div style="display:flex; justify-content:space-around;align-items:center; width:200px">
-
- <a href="https://linkedin.com/in/hardeepnain" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hardeep Nain's LinkedIn" height="30" width="40" /></a>
-
+<div style="display:flex; justify-content:center;align-items:center; ">
+ <a href="https://linkedin.com/in/hardeepnain" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="Hardeep Nain's LinkedIn" />
+</a>
 <a href="mailto:hnspnain@gmail.com" target="_blank">
-<img src="./Icons/icons8-gmail-48.png" alt="Hardeep Nain's gmail" height='35' style="margin-right: 15px;" />
-</a>  
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Hardeep Nain's gmail" style="margin-left: 30px;" />
+</a>
 
 </div>
 
-<br>
+##
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hardeepnain/count.svg" />
+
+</p>
+
+##
 
 <div align="center">
 
-⭐ this [repository](https://github.com/HardeepNain/HardeepNain) if you like 😊
+⭐ this [repository](https://github.com/HardeepNain/HardeepNain) if you like😊
 
 </div>
 
