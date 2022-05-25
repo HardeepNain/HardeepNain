@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain
+<h3>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hardeep Nain</h3>
 
 <h6 align="center">A passionate WEB DEVELOPER from India</h6>
 </div>
