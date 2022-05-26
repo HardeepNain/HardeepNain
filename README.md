@@ -48,10 +48,10 @@
 
 ## 💻 Coding Profiles
 
-<a href="https://leetcode.com/HardeepNain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/codestudio/profile/5ce3bb81-78c6-45a8-a18d-3ac7bb827759" target="blank"><img align="center" src="./Icons/download.png" alt="hardeep nain's codestudio profile" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hardeepnain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
-<a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="20" width="80" /></a>
+<a href="https://leetcode.com/HardeepNain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/codestudio/profile/5ce3bb81-78c6-45a8-a18d-3ac7bb827759" target="_blank"><img align="center" src="./Icons/download.png" alt="hardeep nain's codestudio profile" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hardeepnain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
+<a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="_blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="20" width="80" /></a>
 
 <br>
 
@@ -78,10 +78,10 @@
 <br>
  
 <div  align="center">
-<a href="https://github.com/HardeepNain/Digital-Board" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
-  <a href="https://github.com/HardeepNain/MyExcel" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
+<a href="https://github.com/HardeepNain/Digital-Board" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
+<a href="https://github.com/HardeepNain/MyExcel" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
 </div>
 
 <div align="center">
