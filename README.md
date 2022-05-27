@@ -84,6 +84,8 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
 <a href="https://github.com/HardeepNain/Camera-Lite" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Camera-Lite&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
+<a href="https://github.com/HardeepNain/Camera-Lite" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Sticky-Memo&show_icons=true&theme=blue-green&title_color=ffffff" ></a>
 </div>
 
 <div align="center">
