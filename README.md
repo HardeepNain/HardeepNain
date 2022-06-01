@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> I'm Hardeep Nain
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> I'm Hardeep Nain
 
 </div>
 
