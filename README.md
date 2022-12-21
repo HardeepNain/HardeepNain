@@ -87,7 +87,7 @@
 
 <div  align="center">
 <a href="https://github.com/HardeepNain/Digital-Board" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=ffd700" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=00ffff" ></a>
 <a href="https://github.com/HardeepNain/MyExcel" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=chartreuse-dark&title_color=ffd700" ></a>
 <a href="https://github.com/HardeepNain/Camera-Lite" target="_blank">
