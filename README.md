@@ -87,13 +87,13 @@
 
 <div  align="center">
 <a href="https://github.com/HardeepNain/Digital-Board" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=00ffff" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 <a href="https://github.com/HardeepNain/MyExcel" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=chartreuse-dark&title_color=ffd700" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 <a href="https://github.com/HardeepNain/Camera-Lite" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Camera-Lite&show_icons=true&theme=chartreuse-dark&title_color=ffd700" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Camera-Lite&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 <a href="https://github.com/HardeepNain/Sticky-Memo" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Sticky-Memo&show_icons=true&theme=chartreuse-dark&title_color=ffd700" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Sticky-Memo&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 </div>
 
 <div align="center">
