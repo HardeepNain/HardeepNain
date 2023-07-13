@@ -64,7 +64,7 @@
 ## 💻 Coding Profiles
 
 <a href="https://leetcode.com/HardeepNain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hardeepnain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/spnain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
 <a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="_blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="20" width="80" /></a>
 
 <br>
@@ -94,18 +94,18 @@
 <br>
 
 <div  align="center">
-<a href="https://github.com/HardeepNain/Digital-Board" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
-<a href="https://github.com/HardeepNain/MyExcel" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=MyExcel&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
-<a href="https://github.com/HardeepNain/Camera-Lite" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Camera-Lite&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
-<a href="https://github.com/HardeepNain/Sticky-Memo" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Sticky-Memo&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
-<a href="https://github.com/HardeepNain/Sort_NestedFolder" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=Sort_NestedFolder&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
-<a href="https://github.com/HardeepNain/chat-app" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hardeepnain&repo=chat-app&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/Digital-Board" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Digital-Board&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/MyExcel" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=MyExcel&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/Camera-Lite" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Camera-Lite&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/Sticky-Memo" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Sticky-Memo&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/Sort_NestedFolder" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Sort_NestedFolder&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<a href="https://github.com/SpNain/chat-app" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=chat-app&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 </div>
 
 <div align="center">
