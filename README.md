@@ -72,8 +72,8 @@
 ## &#x1f4c8; GitHub Stats
 
 <div align="center" style="display:flex; justify-content:space-around;align-items:center">
-<a href="(https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardeepnain&theme=chartreuse-dark&layout=compact&border_color=9ACD32" /></a>
-<a href="https://github.com/hardeepnain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hardeepnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32&ring_color=FF6600&icon_color=FFD700" style="width:460px" />
+<a href="(https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spnain&theme=chartreuse-dark&layout=compact&border_color=9ACD32" /></a>
+<a href="https://github.com/hardeepnain/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=spnain&count_private=true&show_icons=true&theme=chartreuse-dark&hide=prs,contribs&border_color=9ACD32&ring_color=FF6600&icon_color=FFD700" style="width:460px" />
 </a>
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardeepNain&theme=chartreuse-dark&ring=ffffff&fire=FF6600&currStreakNum=FFFF00&currStreakLabel=FFFF00&border=9ACD32)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SpNain&theme=chartreuse-dark&ring=ffffff&fire=FF6600&currStreakNum=FFFF00&currStreakLabel=FFFF00&border=9ACD32)](https://git.io/streak-stats)
 
 </div>
 
