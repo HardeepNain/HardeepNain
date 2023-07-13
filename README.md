@@ -112,11 +112,11 @@
 
 <hr>
 
-### Get in touch <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+### Get in touch <img src="./Img/handshake.gif" height="32px">
 
 <div style="display:flex; justify-content:center; ">
  <a href="https://linkedin.com/in/hardeepnain" target="_blank">
-<img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Hardeep Nain's LinkedIn" />
+<img width="52px" src="./Icons/linkedin.png" alt="Hardeep Nain's LinkedIn" />
 </a>
 
 
