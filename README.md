@@ -128,14 +128,14 @@
 <p align="center"> 
 
   ### Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hardeepnain/count.svg" />
+  <img src="https://profile-counter.glitch.me/spnain/count.svg" />
 
 </p>
 
 
 <div align="center">
 
-⭐ this [repository](https://github.com/HardeepNain/HardeepNain) if you like😊
+⭐ this [repository](https://github.com/SpNain/SpNain) if you like😊
 
 </div>
 
