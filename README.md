@@ -63,7 +63,7 @@
 
 ## 💻 Coding Profiles
 
-<a href="https://leetcode.com/HardeepNain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
+<a href="https://leetcode.com/spnain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hardeep nain's leetcode profile" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/spnain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hardeep nain's gfg profile" height="30" width="40" /></a>
 <a href="https://nados.io/profile/ab796a59-c696-433a-a893-37f295b86751" target="_blank"><img align="center" src="./Icons/nadosDarkLogo.png" alt="hardeep nain's nados profile" height="20" width="80" /></a>
 
