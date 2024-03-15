@@ -105,7 +105,9 @@
 <a href="https://github.com/SpNain/Sort-NestedFolder" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Sort-NestedFolder&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
 <a href="https://github.com/SpNain/chat-app" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=chat-app&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec" ></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=chat-app&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec"></a>
+<a href="https://github.com/SpNain/Mini-Web-Projects" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=spnain&repo=Mini-Web-Projects&show_icons=true&theme=chartreuse-dark&title_color=1aa7ec"></a>
 </div>
 
 <div align="center">
